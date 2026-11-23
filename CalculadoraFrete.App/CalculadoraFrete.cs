@@ -6,5 +6,5 @@ public class CalculadoraFrete
     {
         if (pesoKg <= 0) throw new ArgumentOutOfRangeException(nameof(pesoKg));
         return 8m + 2m * pesoKg;
-}
+    }
 }

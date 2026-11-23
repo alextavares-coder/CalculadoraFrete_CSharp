@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculadoraFrete.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63b392e2b3b0aad6c08d98352dd7c868f235d9b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculadoraFrete.App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculadoraFrete.App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

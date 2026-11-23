@@ -1,0 +1,15 @@
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\CalculadoraFrete_CSharp\CalculadoraFrete\CalculadoraFrete.App\bin\Debug\net10.0\CalculadoraFrete.App.exe
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\CalculadoraFrete_CSharp\CalculadoraFrete\CalculadoraFrete.App\bin\Debug\net10.0\CalculadoraFrete.App.deps.json
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\CalculadoraFrete_CSharp\CalculadoraFrete\CalculadoraFrete.App\bin\Debug\net10.0\CalculadoraFrete.App.runtimeconfig.json
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\CalculadoraFrete_CSharp\CalculadoraFrete\CalculadoraFrete.App\bin\Debug\net10.0\CalculadoraFrete.App.dll
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\CalculadoraFrete_CSharp\CalculadoraFrete\CalculadoraFrete.App\bin\Debug\net10.0\CalculadoraFrete.App.pdb
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\CalculadoraFrete_CSharp\CalculadoraFrete\CalculadoraFrete.App\obj\Debug\net10.0\CalculadoraFrete.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\CalculadoraFrete_CSharp\CalculadoraFrete\CalculadoraFrete.App\obj\Debug\net10.0\CalculadoraFrete.App.AssemblyInfoInputs.cache
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\CalculadoraFrete_CSharp\CalculadoraFrete\CalculadoraFrete.App\obj\Debug\net10.0\CalculadoraFrete.App.AssemblyInfo.cs
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\CalculadoraFrete_CSharp\CalculadoraFrete\CalculadoraFrete.App\obj\Debug\net10.0\CalculadoraFrete.App.csproj.CoreCompileInputs.cache
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\CalculadoraFrete_CSharp\CalculadoraFrete\CalculadoraFrete.App\obj\Debug\net10.0\CalculadoraFrete.App.sourcelink.json
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\CalculadoraFrete_CSharp\CalculadoraFrete\CalculadoraFrete.App\obj\Debug\net10.0\CalculadoraFrete.App.dll
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\CalculadoraFrete_CSharp\CalculadoraFrete\CalculadoraFrete.App\obj\Debug\net10.0\refint\CalculadoraFrete.App.dll
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\CalculadoraFrete_CSharp\CalculadoraFrete\CalculadoraFrete.App\obj\Debug\net10.0\CalculadoraFrete.App.pdb
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\CalculadoraFrete_CSharp\CalculadoraFrete\CalculadoraFrete.App\obj\Debug\net10.0\CalculadoraFrete.App.genruntimeconfig.cache
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\CalculadoraFrete_CSharp\CalculadoraFrete\CalculadoraFrete.App\obj\Debug\net10.0\ref\CalculadoraFrete.App.dll
